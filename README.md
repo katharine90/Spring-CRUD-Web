@@ -1,6 +1,6 @@
-This is a Spring application with a front and back-end. (Front-end build with jsp).
+This is a Spring application with a front and back-end (front-end build with jsp).
 This application is connected to a mysql database written with jdbctemplate. 
-You can perform simple crud operations (create, read, update and delete) with a user form. 
+You can perform simple crud operations (create, read, update and delete) from a user form. 
 
 To run the project:
 * Create a database with a 'member' table. 
