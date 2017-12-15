@@ -1,4 +1,3 @@
-Spring-CRUD-WEB
 This is a Spring application with a front and back-end. (Front-end build with jsp).
 This application is connected to a mysql database written with jdbctemplate. 
 You can perform simple crud operations (create, read, update and delete) with a user form. 
